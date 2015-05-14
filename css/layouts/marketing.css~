@@ -109,7 +109,7 @@ a.pure-button-primary {
     color: white;
     font-weight: 600;
     font-size: 120%;
-    text-transform: none;
+    text-transform: lowercase;
 }
 
 .home-menu .pure-menu-selected a {
